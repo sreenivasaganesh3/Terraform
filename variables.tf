@@ -1,15 +1,15 @@
 variable "name"{
   type = string
-  default = "rsg-si"
+  default = "rsg-ci2302"
 }
 
 variable "location"{
   type =  string
-  default = "southindia"
+  default = "central india"
   
 }
 
 variable "virtualnetwork"{
   type = string
-  default = "vnet2124"
+  default = "vnet2302"
 }
